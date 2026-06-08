@@ -1,0 +1,8 @@
+..body1 {
+    height: 100vh; /* Ocupa 100% da altura da janela */
+    width: 100vh;
+    margin: 0;
+    display: flex; /* Ativa o Flexbox */
+    justify-content: center; /* Centraliza na horizontal */
+    align-items: center; /* Centraliza na vertical */
+}
